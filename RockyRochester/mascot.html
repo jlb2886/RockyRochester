@@ -42,10 +42,10 @@
         <li class="nav-item">
           <a class="nav-link" href="events.php">Events</a>
         </li>
-        <li class="nav-item active">
+        <li class="nav-item">
           <a class="nav-link" href="gallery.php">Gallery</a>
         </li>
-        <li class="nav-item">
+        <li class="nav-item active">
           <a class="nav-link" href="mascot.php">Mascot</a>
         </li>
       </ul>
@@ -55,42 +55,42 @@
 
 <div class="meet jumbotron jumbotron-fluid">
   <div class="container">
-    <h1 class="display-4">Gallery</h1>
-    <p class="lead">See pictures from our events</p>
+    <h1 class="display-4">Mascot History</h1>
+    <p class="lead">Take a look through the history of the Mascots for the band.</p>
   </div>
 </div>
 
-<div class = "container">
-
-  <!-- Photo Grid -->
-  <div class="row">
-    <div class="column">
-      <img src="img/img7.jpg" style="width:100%">
-      <img src="img/img6.jpg" style="width:100%">
-      <img src="img/img5.jpg" style="width:100%">
-      <img src="img/img4.jpg" style="width:100%">
-      <img src="img/img3.jpg" style="width:100%">
+<div class="container">
+  <div class="card-group">
+    <div class="card">
+      <img class="card-img-top" src="https://media-cdn.tripadvisor.com/media/photo-s/15/b6/c3/26/ricky-the-racoon-mascot.jpg" style="height: 500px;">
+      <div class="card-body">
+        <h5 class="card-title">Rocky the Raccoon Original Mascot</h5>
+        <p class="card-text">The original Rocky the Raccoon was displayed in concerts during 2009 - 2015 but was then decided to be redesigned.</p>
+      </div>
+      <div class="card-footer">
+        <small class="text-muted">2009 - 2015</small>
+      </div>
     </div>
-    <div class="column">
-      <img src="img/img1.jpg" style="width:100%">
-      <img src="img/img2.jpg" style="width:100%">
-      <img src="img/image1.jpg" style="width:100%">
-      <img src="img/image2.jpg" style="width:100%">
-      <img src="img/image3.jpg" style="width:100%">
+    <div class="card">
+      <img class="card-img-top" src="https://www.michigan.gov/images/mienvironment/MiEnv-image-RecyclingRaccoonADDYAwardVertical_682452_7.jpg" style="height: 500px;">
+      <div class="card-body">
+        <h5 class="card-title">Revised Rocky the Raccoon Mascot</h5>
+        <p class="card-text">The revised Rocky the Raccoon was displayed at concerts during the years 2015 through 2019, but was revised again by our band. </p>
+      </div>
+      <div class="card-footer">
+        <small class="text-muted">2015 - 2019</small>
+      </div>
     </div>
-    <div class="column">
-      <img src="img/image4.jpg" style="width:100%">
-      <img src="img/image5.jpg" style="width:100%">
-      <img src="img/image6.jpg" style="width:100%">
-      <img src="img/image7.jpg" style="width:100%">
-      <img src="img/image8.jpg" style="width:100%">
-    </div>
-    <div class="column">
-      <img src="img/image9.jpg" style="width:100%">
-      <img src="img/image10.jpg" style="width:100%">
-      <img src="img/image11.jpg" style="width:100%">
-      <img src="img/image12.jpg" style="width:100%">
-      <img src="img/image13.jpg" style="width:100%">
+    <div class="card">
+      <img class="card-img-top" src="https://i.mmo.cm/is/image/mmoimg/bigview/ricky-raccoon-mascot--mw-102440-1.jpg" style="height: 500px;">
+      <div class="card-body">
+        <h5 class="card-title">Newest Rocky the Raccoon Mascot</h5>
+        <p class="card-text">Meet the new and improved Rocky the Raccoon at one of our concerts displayed on the events page.</p>
+      </div>
+      <div class="card-footer">
+        <small class="text-muted">2019 - present</small>
+      </div>
     </div>
   </div>
 </div>
